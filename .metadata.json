@@ -1,0 +1,22 @@
+[
+  {
+    "package": "diffobj",
+    "oncran": true
+  },
+  {
+    "package": "fansi",
+    "oncran": true
+  },
+  {
+    "package": "oshka",
+    "oncran": true
+  },
+  {
+    "package": "unitizer",
+    "oncran": true
+  },
+  {
+    "package": "vetr",
+    "oncran": true
+  }
+]
