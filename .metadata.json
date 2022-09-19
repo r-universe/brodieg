@@ -1,5 +1,9 @@
 [
   {
+    "package": "diffobj",
+    "oncran": true
+  },
+  {
     "package": "fansi",
     "oncran": true
   },
