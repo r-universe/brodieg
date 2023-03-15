@@ -1,9 +1,5 @@
 [
   {
-    "package": "diffobj",
-    "oncran": true
-  },
-  {
     "package": "fansi",
     "oncran": true
   },
@@ -12,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "unitizer",
+    "package": "diffobj",
     "oncran": true
   },
   {
     "package": "vetr",
+    "oncran": true
+  },
+  {
+    "package": "unitizer",
     "oncran": true
   }
 ]

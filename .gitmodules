@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "diffobj"]
-	path = diffobj
-	url = https://github.com/brodieg/diffobj
-	shallow = true
-	registered = true
 [submodule "fansi"]
 	path = fansi
 	url = https://github.com/brodieg/fansi
@@ -18,13 +13,18 @@
 	url = https://github.com/brodieg/oshka
 	shallow = true
 	registered = true
-[submodule "unitizer"]
-	path = unitizer
-	url = https://github.com/brodieg/unitizer
+[submodule "diffobj"]
+	path = diffobj
+	url = https://github.com/brodieg/diffobj
 	shallow = true
 	registered = true
 [submodule "vetr"]
 	path = vetr
 	url = https://github.com/brodieg/vetr
+	shallow = true
+	registered = true
+[submodule "unitizer"]
+	path = unitizer
+	url = https://github.com/brodieg/unitizer
 	shallow = true
 	registered = true
