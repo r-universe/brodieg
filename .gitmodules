@@ -8,9 +8,6 @@
 [submodule "fansi"]
 	path = fansi
 	url = https://github.com/brodieg/fansi
-[submodule "oshka"]
-	path = oshka
-	url = https://github.com/brodieg/oshka
 [submodule "unitizer"]
 	path = unitizer
 	url = https://github.com/brodieg/unitizer
